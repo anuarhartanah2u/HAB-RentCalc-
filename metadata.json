@@ -1,0 +1,6 @@
+{
+  "name": "HAB RentCalc",
+  "description": "HAB RentCalc - A PROP AGENT TOOL. Kalkulator Deposit & Ringkasan Sewaan untuk ejen hartanah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
